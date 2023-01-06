@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LevelLoadScreen.md",
-            "mode": "preview"
+            "file": "LevelTitleScreen.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LevelLoadScreen.md",
+                "file": "LevelTitleScreen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "2333607067e703c9",
   "lastOpenFiles": [
+    "LevelTitleScreen.md",
     "LevelLoadScreen.md",
     "LevelOptionsScreen.md",
-    "LevelTitleScreen.md",
     "BP_QuestOfHeroesGameInstance.md",
     "BFL_QuestOfHeroes.md"
   ]

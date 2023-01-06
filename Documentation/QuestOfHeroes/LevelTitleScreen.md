@@ -10,5 +10,5 @@ Référence 2D
 - charger une partie rapide
 - charger une partie -> [[LevelLoadScreen]]
 - options -> [[LevelOptionsScreen]]
-- lien vers le repo git
+- lien vers le repo git -> [YopSolo/QuestOfHeroes: Educational Project (github.com)](https://github.com/YopSolo/QuestOfHeroes)
 - quitter
