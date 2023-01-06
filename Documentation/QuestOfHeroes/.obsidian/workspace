@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "4825f2912fe459e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2333607067e703c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "LevelLoadScreen.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6371999604803609",
+    "type": "split",
+    "children": [
+      {
+        "id": "868dc2f963fbc04d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56c8237508d42c63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff1072560dd108c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3be40f35ef5a77d",
+    "type": "split",
+    "children": [
+      {
+        "id": "54eb8dce877e2aec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2640224134db3d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LevelLoadScreen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2333607067e703c9",
+  "lastOpenFiles": [
+    "LevelLoadScreen.md",
+    "LevelOptionsScreen.md",
+    "LevelTitleScreen.md",
+    "BP_QuestOfHeroesGameInstance.md",
+    "BFL_QuestOfHeroes.md"
+  ]
+}
