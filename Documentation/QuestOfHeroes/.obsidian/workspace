@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ressources.md",
-            "mode": "source"
+            "file": "BFL_QuestOfHeroes.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressources.md",
+                "file": "BFL_QuestOfHeroes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "2333607067e703c9",
   "lastOpenFiles": [
-    "Ressources.md",
     "BFL_QuestOfHeroes.md",
-    "BP_QuestOfHeroesGameInstance.md",
-    "LevelLoadScreen.md",
+    "Ressources.md",
+    "LevelTitleScreen.md",
     "LevelOptionsScreen.md",
-    "LevelTitleScreen.md"
+    "LevelLoadScreen.md",
+    "BP_QuestOfHeroesGameInstance.md"
   ]
 }
